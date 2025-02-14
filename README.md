@@ -98,5 +98,5 @@ library(nycflights13)
 ```{r}
 #| echo: true
 
-flights
+view(flights)
 ```
